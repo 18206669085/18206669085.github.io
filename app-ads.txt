@@ -1870,7 +1870,7 @@ bigo.sg, 23172982, DIRECT
 #Bigo end
 
 #ironsource start
-OWNERDOMAIN=wsxujmygv111-cpu.github.io
+OWNERDOMAIN=18206669085.github.io
 ironsrc.com,639879, Direct
 
 blueseasx.com, 203625, RESELLER
